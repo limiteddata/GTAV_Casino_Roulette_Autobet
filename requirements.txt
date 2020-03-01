@@ -42,7 +42,7 @@ opencv-python==4.0.0.21
 pandas==0.24.2
 parse==1.11.1
 pefile==2018.8.8
-Pillow==6.0.0
+Pillow==6.2.0
 protobuf==3.11.2
 pyaes==1.6.1
 PyAudio==0.2.11
