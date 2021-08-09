@@ -1,4 +1,4 @@
-pywin32==224
+pywin32==301
 numpy==1.16.2
 PyAutoIt==0.4
 pynput==1.4.2
