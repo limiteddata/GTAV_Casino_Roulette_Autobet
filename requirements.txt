@@ -1,5 +1,5 @@
 pywin32==224
-numpy==1.16.2
+numpy==1.22.0
 PyAutoIt==0.4
 pynput==1.4.2
 pytesseract==0.3.2
